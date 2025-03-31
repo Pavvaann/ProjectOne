@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: auto;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: black;
+}
+
+header {
+    background-color: rgba(118, 118, 169, 0.879);
+    padding: 1rem;
+}
